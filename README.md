@@ -69,7 +69,7 @@ git clone https://github.com/Iannu01/miamin.git
 
 
 2. Navigate to the project directory.
-cd ecommerce-site
+cd miamin
 
 3. Install dependencies.
 pip install -r requirements.txt
